@@ -13,3 +13,6 @@ The tutorial contains three PHP files and two js files includes jQuery plugin.
 - pagination_data.php
 - jquery.js
 - jquery_pagination.js
+
+### screenshot
+

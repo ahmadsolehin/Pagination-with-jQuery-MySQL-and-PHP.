@@ -8,8 +8,8 @@
 
 The tutorial contains three PHP files and two js files includes jQuery plugin.
 
--config.php (Database Configuration)
--pagination.php
--pagination_data.php
--jquery.js
--jquery_pagination.js
+- config.php (Database Configuration)
+- pagination.php
+- pagination_data.php
+- jquery.js
+- jquery_pagination.js
